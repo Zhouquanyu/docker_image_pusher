@@ -1,4 +1,1 @@
---platform linux/arm/v6 homeassistant/home-assistant:2024.6
---platform linux/arm/v7 homeassistant/home-assistant:2024.6
 --platform linux/arm64 homeassistant/home-assistant:2024.6
-
